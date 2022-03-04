@@ -1,5 +1,13 @@
 ## Welcome to GitHub Pages
 
+# 신지원의 github 홈페이지
+## 금융 IT 개발자.
+## 이미지 <img src="architecture.png"/><br>
+[발표자료](/project.pptx)<br>
+## 신지원의 일상유트브
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/tJXvVX3vuDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Reference[네이버주소](https://naver.com)
+
 You can use the [editor on GitHub](https://github.com/tlswldnjs716/helloworld/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
